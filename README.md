@@ -1,4 +1,4 @@
-## Jobbifi - Automatisert annonseinnsamler
+## Jobbifi - Automatisert annonseinnsamler || Automated job collector
 
 ## Demo(not fully functional due to database-error, but representative nonetheless)
 - [Demo](https://www.jobbifi.no/)
