@@ -6,9 +6,7 @@
 ![GitHub Logo](./jobbifi.png)
 
 ## Info:
-Jobbifi er en nettside som prøver å gjøre jobbsøkingsprosessen litt enklere for informatikk- og designstudenter. Ved å redusere antallet tilgjengelige jobbsøkingssider til et minimum så vil graden av ego-depletion bli lavere og produktivitet vil dermed helhetsmessig øke.
-
-Hva aggregerer og hvor ofte aggregerer Jobbifi jobbsider?
+Jobbifi er en nettside som prøver å gjøre jobbsøkingsprosessen litt enklere for informatikk- og designstudenter.
 
 Crawler (Just for learning, no purpose to profit from this, dont sue us please xD):
 - finn.no
